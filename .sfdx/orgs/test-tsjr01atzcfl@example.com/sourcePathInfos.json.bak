@@ -1,0 +1,1757 @@
+[
+    [
+        "C:\\Source DX project\\dx\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520954259881,
+            "changeTime": 1520954259881,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520954259881,
+            "changeTime": 1520954259881,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520954259996,
+            "changeTime": 1520954259996,
+            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520958478149,
+            "changeTime": 1520958478149,
+            "contentHash": "9172adb31c724e3c93db2d12fd98b95465f6d2f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountList",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520954259893,
+            "changeTime": 1520954259893,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 214,
+            "modifiedTime": 1520954259885,
+            "changeTime": 1520954259885,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 556,
+            "modifiedTime": 1520954259885,
+            "changeTime": 1520954259885,
+            "contentHash": "1e616630383cc9644b6b88e35d98ca2307749791",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 248,
+            "modifiedTime": 1520954259885,
+            "changeTime": 1520954259885,
+            "contentHash": "eea458e5ca644a49a0222b775b63b18e24e883bf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 117,
+            "modifiedTime": 1520954259889,
+            "changeTime": 1520954259889,
+            "contentHash": "85dde2885dc3136657a01a064788e1599d165ce5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42,
+            "modifiedTime": 1520954259889,
+            "changeTime": 1520954259889,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 667,
+            "modifiedTime": 1520954259889,
+            "changeTime": 1520954259889,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 406,
+            "modifiedTime": 1520967743168,
+            "changeTime": 1520967743168,
+            "contentHash": "3c00cbfaec8dced83cda74daf23e53204dbf0354",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1520954259893,
+            "changeTime": 1520954259893,
+            "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 55,
+            "modifiedTime": 1520954259893,
+            "changeTime": 1520954259893,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItem",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItem",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520954259902,
+            "changeTime": 1520954259902,
+            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 214,
+            "modifiedTime": 1520954259897,
+            "changeTime": 1520954259897,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 123,
+            "modifiedTime": 1520954259897,
+            "changeTime": 1520954259897,
+            "contentHash": "e2e23c40695b076c7bbbfe695717fb74e38593b0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 252,
+            "modifiedTime": 1520954259897,
+            "changeTime": 1520954259897,
+            "contentHash": "1cfde2d3e5cdfbb3a5271979d99cd789bc5ef639",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 182,
+            "modifiedTime": 1520954259902,
+            "changeTime": 1520954259902,
+            "contentHash": "ad72ce8d2318d219b26ab341f0c85ca87d3a8a3a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42,
+            "modifiedTime": 1520954259902,
+            "changeTime": 1520954259902,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 667,
+            "modifiedTime": 1520954259902,
+            "changeTime": 1520954259902,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 70,
+            "modifiedTime": 1520954259902,
+            "changeTime": 1520954259902,
+            "contentHash": "71e888bad43bee50e7680e4cdabf4d0ffc6e5de6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1520954259902,
+            "changeTime": 1520954259902,
+            "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 55,
+            "modifiedTime": 1520954259902,
+            "changeTime": 1520954259902,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItemSM",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItemSM",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520958414274,
+            "changeTime": 1520958414274,
+            "contentHash": "56d2fc96e9b4a0c16f2a61246bc0b80157243f2a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItemSM\\AccountListItemSM.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItemSM\\AccountListItemSM.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1520958414273,
+            "changeTime": 1520958414273,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItemSM\\AccountListItemSM.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItemSM\\AccountListItemSM.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 120,
+            "modifiedTime": 1520958434764,
+            "changeTime": 1520958434764,
+            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItemSM\\AccountListItemSM.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItemSM\\AccountListItemSM.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 249,
+            "modifiedTime": 1520958414255,
+            "changeTime": 1520958414255,
+            "contentHash": "0c30c0f61e423120804c25e16e18f03bf9803321",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItemSM\\AccountListItemSM.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItemSM\\AccountListItemSM.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 168,
+            "modifiedTime": 1520958449174,
+            "changeTime": 1520958449174,
+            "contentHash": "28b0ed4fe984a051f5f2f586c4d4d1a2b303a706",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItemSM\\AccountListItemSM.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItemSM\\AccountListItemSM.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1520958414275,
+            "changeTime": 1520958414275,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItemSM\\AccountListItemSM.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItemSM\\AccountListItemSM.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1520958414271,
+            "changeTime": 1520958414271,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItemSM\\AccountListItemSMController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItemSM\\AccountListItemSMController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1520958414261,
+            "changeTime": 1520958414261,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItemSM\\AccountListItemSMHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItemSM\\AccountListItemSMHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1520958414264,
+            "changeTime": 1520958414264,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItemSM\\AccountListItemSMRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListItemSM\\AccountListItemSMRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1520958414268,
+            "changeTime": 1520958414268,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListSM",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListSM",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520958478171,
+            "changeTime": 1520958478171,
+            "contentHash": "e137148e2652bb936b356ed949eac0f40ca43b35",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListSM\\AccountListSM.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListSM\\AccountListSM.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1520958478170,
+            "changeTime": 1520958478170,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListSM\\AccountListSM.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListSM\\AccountListSM.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 339,
+            "modifiedTime": 1520958497683,
+            "changeTime": 1520958497683,
+            "contentHash": "f9bd7187bf9a569cd90222e052f48aa1c9164a5a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListSM\\AccountListSM.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListSM\\AccountListSM.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 245,
+            "modifiedTime": 1520958478157,
+            "changeTime": 1520958478157,
+            "contentHash": "37a12d23f0f6291607d6b4e09a82411d8702ecaa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListSM\\AccountListSM.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListSM\\AccountListSM.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 111,
+            "modifiedTime": 1520958537118,
+            "changeTime": 1520958537118,
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListSM\\AccountListSM.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListSM\\AccountListSM.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1520958478172,
+            "changeTime": 1520958478172,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListSM\\AccountListSM.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListSM\\AccountListSM.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1520958478168,
+            "changeTime": 1520958478168,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListSM\\AccountListSMController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListSM\\AccountListSMController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 255,
+            "modifiedTime": 1520958522369,
+            "changeTime": 1520958522369,
+            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListSM\\AccountListSMHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListSM\\AccountListSMHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1520958478161,
+            "changeTime": 1520958478161,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListSM\\AccountListSMRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountListSM\\AccountListSMRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1520958478166,
+            "changeTime": 1520958478166,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocator",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocator",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520954259917,
+            "changeTime": 1520954259917,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 214,
+            "modifiedTime": 1520954259902,
+            "changeTime": 1520954259902,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 212,
+            "modifiedTime": 1520966807261,
+            "changeTime": 1520966807261,
+            "contentHash": "50e71b9b30b617b649cc0c27c8f96070d12e30e6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 251,
+            "modifiedTime": 1520954259902,
+            "changeTime": 1520954259902,
+            "contentHash": "b262c987321b6a8b4b8208de30bb89e8684f4d8e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 123,
+            "modifiedTime": 1520954259902,
+            "changeTime": 1520954259902,
+            "contentHash": "2ea5091ae9e41571405df5c3243a0e5835c4d1b6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42,
+            "modifiedTime": 1520954259902,
+            "changeTime": 1520954259902,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 667,
+            "modifiedTime": 1520954259902,
+            "changeTime": 1520954259902,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 70,
+            "modifiedTime": 1520954259917,
+            "changeTime": 1520954259917,
+            "contentHash": "71e888bad43bee50e7680e4cdabf4d0ffc6e5de6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1520954259917,
+            "changeTime": 1520954259917,
+            "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 55,
+            "modifiedTime": 1520954259917,
+            "changeTime": 1520954259917,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocatorSM",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocatorSM",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520957907822,
+            "changeTime": 1520957907822,
+            "contentHash": "40817b01db852a132c013f5e51273481ed93e1f0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocatorSM\\AccountLocatorSM.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocatorSM\\AccountLocatorSM.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1520957907820,
+            "changeTime": 1520957907820,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocatorSM\\AccountLocatorSM.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocatorSM\\AccountLocatorSM.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 184,
+            "modifiedTime": 1520958581176,
+            "changeTime": 1520958581176,
+            "contentHash": "2ecb2f7ad514c43ee467fe81a72b0dec8acdd2d2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocatorSM\\AccountLocatorSM.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocatorSM\\AccountLocatorSM.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 248,
+            "modifiedTime": 1520957907791,
+            "changeTime": 1520957907791,
+            "contentHash": "382692aa6251f99175699d18030f139789af158a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocatorSM\\AccountLocatorSM.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocatorSM\\AccountLocatorSM.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 113,
+            "modifiedTime": 1520958011972,
+            "changeTime": 1520958011972,
+            "contentHash": "d37585a5497942f4652a198588747f2d6be784e7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocatorSM\\AccountLocatorSM.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocatorSM\\AccountLocatorSM.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1520957907825,
+            "changeTime": 1520957907825,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocatorSM\\AccountLocatorSM.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocatorSM\\AccountLocatorSM.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1520957907815,
+            "changeTime": 1520957907815,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocatorSM\\AccountLocatorSMController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocatorSM\\AccountLocatorSMController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1520957907797,
+            "changeTime": 1520957907797,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocatorSM\\AccountLocatorSMHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocatorSM\\AccountLocatorSMHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1520957907802,
+            "changeTime": 1520957907802,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocatorSM\\AccountLocatorSMRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountLocatorSM\\AccountLocatorSMRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1520957907811,
+            "changeTime": 1520957907811,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountMap",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountMap",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520954259917,
+            "changeTime": 1520954259917,
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1520965983388,
+            "changeTime": 1520965983388,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 326,
+            "modifiedTime": 1520967840644,
+            "changeTime": 1520967840644,
+            "contentHash": "c58ceaac33a5fc0fac0074c766538f0b0ecccdb0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1520965983355,
+            "changeTime": 1520965983355,
+            "contentHash": "b077571a2f804c85e2f389b95989fc6cf62a87af",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42,
+            "modifiedTime": 1520966766609,
+            "changeTime": 1520966766609,
+            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1520965983393,
+            "changeTime": 1520965983393,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1520965983383,
+            "changeTime": 1520965983383,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 830,
+            "modifiedTime": 1520967871131,
+            "changeTime": 1520967871131,
+            "contentHash": "22f2320dc148f0e43c67b8f5d2dc75933cb07c22",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1520965983367,
+            "changeTime": 1520965983367,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1520965983378,
+            "changeTime": 1520965983378,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountsLoaded",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountsLoaded",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520954259934,
+            "changeTime": 1520954259934,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 100,
+            "modifiedTime": 1520967527840,
+            "changeTime": 1520967527840,
+            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1520967341401,
+            "changeTime": 1520967341401,
+            "contentHash": "2761731f694cba49bd18f1129cb53c1074bf487c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520957498190,
+            "changeTime": 1520957498190,
+            "contentHash": "1e0c171b4b6080aab821c2205b1e5812c8fd7fd0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\classes\\AccountController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\classes\\AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 302,
+            "modifiedTime": 1520954259934,
+            "changeTime": 1520954259934,
+            "contentHash": "4a095464fe55db3d27fe174d315f2af0483cfdb8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1520954259934,
+            "changeTime": 1520954259934,
+            "contentHash": "ed1f3037f880372203ae4884376db64b69be584c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\classes\\AccountControllerSM.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\classes\\AccountControllerSM.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 298,
+            "modifiedTime": 1520957546090,
+            "changeTime": 1520957546090,
+            "contentHash": "f4300459faa7c2c5c12d23c3e08422bb1f33643c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\classes\\AccountControllerSM.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\classes\\AccountControllerSM.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 197,
+            "modifiedTime": 1520957498195,
+            "changeTime": 1520957498195,
+            "contentHash": "97c87215de552239d1f979c1047d80fa950f1971",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520954259934,
+            "changeTime": 1520954259934,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9896,
+            "modifiedTime": 1520955172287,
+            "changeTime": 1520955172287,
+            "contentHash": "cc750c5a1474be5df38eb864f481b5cccec751fb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9848,
+            "modifiedTime": 1520955172344,
+            "changeTime": 1520955172344,
+            "contentHash": "bcc9a90823d9c89ccf11437d239638242116c6a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9896,
+            "modifiedTime": 1520955172383,
+            "changeTime": 1520955172383,
+            "contentHash": "69c3d0f4a1d5c22abd231ce27f36ec3e7f72d0ba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9848,
+            "modifiedTime": 1520955172429,
+            "changeTime": 1520955172429,
+            "contentHash": "41bba7c67e89726f9c3dc940375bf0186c49a538",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520954259934,
+            "changeTime": 1520954259934,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520954259934,
+            "changeTime": 1520954259934,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520955172236,
+            "changeTime": 1520955172236,
+            "contentHash": "2bbfeab9e0f525605f41e4cb6b13de4256aa34c9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 414,
+            "modifiedTime": 1520954259934,
+            "changeTime": 1520954259934,
+            "contentHash": "d8e42de94ab4f0200875bcbe82c14fa35f027b00",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\objects\\Account\\fields\\Test_Field__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\objects\\Account\\fields\\Test_Field__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 371,
+            "modifiedTime": 1520955172243,
+            "changeTime": 1520955172243,
+            "contentHash": "5a459448fe23dcf25fc8a20b080858dbfd830df1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520954259934,
+            "changeTime": 1520954259934,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 376,
+            "modifiedTime": 1520954259934,
+            "changeTime": 1520954259934,
+            "contentHash": "3da1fd99eeb4770128fefbd9463a3d6fa7647f19",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520954259950,
+            "changeTime": 1520954259950,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17850,
+            "modifiedTime": 1520958261741,
+            "changeTime": 1520958261741,
+            "contentHash": "5a92121978e5f40285dcb59a328ea652c38c6b58",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4812,
+            "modifiedTime": 1520958261774,
+            "changeTime": 1520958261774,
+            "contentHash": "0d2aac68abc734cfa8dacd40768ce4f5d500d061",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4808,
+            "modifiedTime": 1520958261751,
+            "changeTime": 1520958261751,
+            "contentHash": "d1b5f798c7749d13f44db0b9313e3f1fc128ca87",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5148,
+            "modifiedTime": 1520958261763,
+            "changeTime": 1520958261763,
+            "contentHash": "92195e47090d2f5e82409aeb8cb48e23183261b7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520954259950,
+            "changeTime": 1520954259950,
+            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources\\leaflet",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources\\leaflet",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520954259996,
+            "changeTime": 1520954259996,
+            "contentHash": "ef86d3d12efa4e132890afd141d18f3050a16029",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources\\leaflet\\images",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources\\leaflet\\images",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520954259950,
+            "changeTime": 1520954259950,
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1259,
+            "modifiedTime": 1520954259950,
+            "changeTime": 1520954259950,
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 696,
+            "modifiedTime": 1520954259950,
+            "changeTime": 1520954259950,
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2464,
+            "modifiedTime": 1520954259950,
+            "changeTime": 1520954259950,
+            "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1466,
+            "modifiedTime": 1520954259950,
+            "changeTime": 1520954259950,
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 618,
+            "modifiedTime": 1520954259950,
+            "changeTime": 1520954259950,
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 402508,
+            "modifiedTime": 1520954259965,
+            "changeTime": 1520954259965,
+            "contentHash": "18626d10315867b38d86c2b3386c3f11695725db",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 755043,
+            "modifiedTime": 1520954259981,
+            "changeTime": 1520954259981,
+            "contentHash": "ca31fc870259d8faaa12c2f431906f368ea92791",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 14198,
+            "modifiedTime": 1520954259981,
+            "changeTime": 1520954259981,
+            "contentHash": "57d2f781ab8b7b41d1dd5f0a51cd1930050ca9dc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 139647,
+            "modifiedTime": 1520954259981,
+            "changeTime": 1520954259981,
+            "contentHash": "fe0d20842fd33dc92a2e342c63373cba9ff13575",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 190004,
+            "modifiedTime": 1520954259996,
+            "changeTime": 1520954259996,
+            "contentHash": "d94996a1df21dc6283868fdf6c0f1e50358eafea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 227,
+            "modifiedTime": 1520954259950,
+            "changeTime": 1520954259950,
+            "contentHash": "87828c0daf9496e68146dc4966620ccf499dfafa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520958261688,
+            "changeTime": 1520958261688,
+            "contentHash": "ff2a77098af1091a4912652f87f132d63c37c06d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 274,
+            "modifiedTime": 1520954259996,
+            "changeTime": 1520954259996,
+            "contentHash": "ac8e04e9f234c92f386143d848936b93875981d3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx\\force-app\\main\\default\\tabs\\Account_Locator_SM.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx\\force-app\\main\\default\\tabs\\Account_Locator_SM.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 272,
+            "modifiedTime": 1520958261690,
+            "changeTime": 1520958261690,
+            "contentHash": "bc0457ea42c565124d8130df2a2590d6d1e4de41",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Source DX project\\dx",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Source DX project\\dx",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520954259996,
+            "changeTime": 1520954259996,
+            "contentHash": "2de8e58e491cffba3a177d0c03873c44423f07b5",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
