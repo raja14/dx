@@ -1,5 +1,6 @@
 ({
     doInit : function(component, event) {
+        console.log();
         var action = component.get("c.findAll");
         action.setCallback(this, function(a) {
             component.set("v.accounts", a.getReturnValue());
